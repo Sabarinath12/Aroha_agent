@@ -1,0 +1,7 @@
+# Environment Variables for Aroha Map App
+# Copy these to your .env file on your self-hosted server
+
+DATABASE_URL=postgresql://postgres:password@helium/heliumdb?sslmode=disable
+OPENAI_API_KEY=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
+VITE_GOOGLE_MAPS_API_KEY=AIzaSyA6iZAsy4WMqpswsDXUOKCP08Xa4zCZsD0
+NODE_ENV=production
